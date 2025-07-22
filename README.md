@@ -9,7 +9,7 @@
 
 3. **Raw Pb+Pb data**  
    Produced with our proprietary **CoLBT-hydro** model.  
-   Full raw files (~50 GB) are **not openly hosted** due to size and project constraints, but can be obtained from the authors (contact **Zhong Yang** or **Xin-Nian Wang**) upon reasonable request.
+   The full raw files are **not publicly available** because preparing, depositing, and hosting them would be technically unfeasible or prohibitively costly within the scope of this project. They can be obtained from the authors upon reasonable request (contact **Zhong Yang** or **Xin-Nian Wang**).
 
 4. **Figure-specific notes**  
    - *Fig. 1* is illustrative only – no underlying numerical data.  
